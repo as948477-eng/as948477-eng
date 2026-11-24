@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:161B22&height=230&section=header&text=Aman%20Pratap%20Singh%20Parihar&fontSize=40&fontColor=F8FAFC&stroke=334155&strokeWidth=1&animation=fadeIn&fontAlignY=38&desc=Operations%20Officer%20%7C%20Credit%20%26%20Lending%20Ops%20%7C%20Business%20Intelligence&descColor=94A3B8&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:111111,100:1C1917&height=220&section=header&text=AMAN%20PARIHAR&fontSize=54&fontColor=FFFFFF&stroke=F59E0B&strokeWidth=2&animation=twinkling&fontAlignY=42&desc=MBA%20(Marketing%20%26%20Finance)%20%E2%80%A2%20Dvara%20E-Registry%20%E2%80%A2%20BI%20Analytics&descColor=FBBF24&descAlignY=68&descSize=16" width="100%"/>
 </div>
 
 <!-- Sleek Social Pill Badges -->
