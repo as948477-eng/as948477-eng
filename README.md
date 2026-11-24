@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=AMAN+PRATAP+SINGH+PARIHAR" alt="Name Header" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Operations+Officer+%40+Dvara+E-Registry;Credit+%26+Lending+Operations+%7C+MBA+(Marketing+%26+Finance);Driving+SLA+Discipline+%26+Business+Intelligence" alt="Subtitle" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:161B22&height=230&section=header&text=Aman%20Pratap%20Singh%20Parihar&fontSize=40&fontColor=F8FAFC&stroke=334155&strokeWidth=1&animation=fadeIn&fontAlignY=38&desc=Operations%20Officer%20%7C%20Credit%20%26%20Lending%20Ops%20%7C%20Business%20Intelligence&descColor=94A3B8&descAlignY=60&descSize=16" width="100%"/>
 </div>
 
 <!-- Sleek Social Pill Badges -->
