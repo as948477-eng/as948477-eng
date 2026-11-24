@@ -1,13 +1,7 @@
-<!-- Dark Neon Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090D16,45:312E81,100:06B6D4&height=240&section=header&text=AMAN%20PARIHAR&fontSize=58&fontColor=ffffff&stroke=38BDF8&strokeWidth=2&animation=twinkling&fontAlignY=42&desc=Operations%20Officer%20%7C%20Credit%20%26%20Lending%20Ops%20%7C%20Business%20Intelligence&descAlignY=68&descSize=16" width="100%"/>
-</div>
-
-<!-- Animated Monospace Typing Intro -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Operations+Officer+%40+Dvara+E-Registry;MBA+(Marketing+%26+Finance)+%7C+FinTech+%26+Lending+Ops;Driving+Audit-Ready+Disbursements+%26+SLA+Discipline;Turning+Financial+Data+into+BI+Insights" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=AMAN+PRATAP+SINGH+PARIHAR" alt="Name Header" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Operations+Officer+%40+Dvara+E-Registry;Credit+%26+Lending+Operations+%7C+MBA+(Marketing+%26+Finance);Driving+SLA+Discipline+%26+Business+Intelligence" alt="Subtitle" />
 </div>
 
 <!-- Sleek Social Pill Badges -->
