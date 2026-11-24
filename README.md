@@ -1,6 +1,6 @@
 <!-- Dark Neon Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F172A,50:1E1B4B,100:0284C7&height=200&section=header&text=Aman%20Pratap%20Singh%20Parihar&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=44&desc=FinTech%20Operations%20%E2%80%A2%20Underwriting%20%E2%80%A2%20Data%20Analytics&descAlignY=70&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:090D16,45:312E81,100:06B6D4&height=240&section=header&text=AMAN%20PARIHAR&fontSize=58&fontColor=ffffff&stroke=38BDF8&strokeWidth=2&animation=twinkling&fontAlignY=42&desc=Operations%20Officer%20%7C%20Credit%20%26%20Lending%20Ops%20%7C%20Business%20Intelligence&descAlignY=68&descSize=16" width="100%"/>
 </div>
 
 <!-- Animated Monospace Typing Intro -->
