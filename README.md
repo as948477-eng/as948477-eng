@@ -1,4 +1,4 @@
-# Hi, I'm as948477-eng 👋
+# Hi, I'm Aman 👋
 
 **Financial Operations | Credit Underwriting | Data Analytics & Process Automation**
 
