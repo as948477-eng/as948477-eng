@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050505,50:111111,100:1C1917&height=220&section=header&text=AMAN%20PARIHAR&fontSize=54&fontColor=FFFFFF&stroke=F59E0B&strokeWidth=2&animation=twinkling&fontAlignY=42&desc=MBA%20(Marketing%20%26%20Finance)%20%E2%80%A2%20Dvara%20E-Registry%20%E2%80%A2%20BI%20Analytics&descColor=FBBF24&descAlignY=68&descSize=16" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2500&pause=1500&color=38BDF8&center=true&vCenter=true&width=800&height=70&lines=AMAN+PRATAP+SINGH+PARIHAR" alt="Name Header" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Operations+Officer+%40+Dvara+E-Registry;Credit+%26+Lending+Operations+%7C+MBA+(Marketing+%26+Finance);Driving+SLA+Discipline+%26+Business+Intelligence" alt="Subtitle" />
 </div>
 
 <!-- Sleek Social Pill Badges -->
